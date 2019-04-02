@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.0)
+project(Tutorials)
+include_directories(include)
+include_directories(src)
+file(GLOB SOURCES "src/*.c" "include/*.h")
+add_executable(Tutorials ${SOURCES})

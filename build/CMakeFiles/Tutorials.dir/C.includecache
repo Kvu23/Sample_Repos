@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/main.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+stdint.h
+-
+
+/home/kaushik/Desktop/Sample_C_Practice/src/main.c
+main.h
+/home/kaushik/Desktop/Sample_C_Practice/src/main.h
+

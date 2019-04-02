@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/Tutorials.dir/src/main.c.o  -o Tutorials 

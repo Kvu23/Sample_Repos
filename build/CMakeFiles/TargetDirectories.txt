@@ -1,0 +1,3 @@
+/home/kaushik/Desktop/Sample_C_Practice/build/CMakeFiles/rebuild_cache.dir
+/home/kaushik/Desktop/Sample_C_Practice/build/CMakeFiles/Tutorials.dir
+/home/kaushik/Desktop/Sample_C_Practice/build/CMakeFiles/edit_cache.dir
